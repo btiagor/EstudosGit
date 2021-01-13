@@ -1,5 +1,0 @@
-mkdir RelembrandoGit
-git init RelembrandoGit/
-criar arquivo ou (gedit NomeDoArquivo)
-git add NomeDoArquivo -- para adicionar ao git
-git commit -m "Descrição do que foi feito no arquivo adicionado"
